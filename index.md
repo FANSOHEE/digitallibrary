@@ -15,6 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki
 8. [Tenggelamnya Kapal Van Der Wijck](ebook/Tenggelamnya Kapal Van Der Wijck.pdf) - Hamka (1984)
 9. [Alice in Wonderland](ebook/Alice in Wonderland.pdf) - Lewis Carrol (2000)
 10. [Mata yang Enak Dipandang](ebook/Mata yang Enak Dipandang.pdf) - Ahmad Tohari (2017)
+11. [Rangkuman Materi Beyond the Bookshelf VR](ebook/Rangkuman Materi Beyond the Bookshelf VR.pdf) - Erfanda Zaki (2025)
 
 ---
 
