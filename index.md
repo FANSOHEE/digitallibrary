@@ -18,5 +18,5 @@ Berikut ini adalah Koleksi yang dimiliki
 11. [Rangkuman Materi Beyond the Bookshelf VR](ebook/Rangkuman Materi Beyond the Bookshelf VR.pdf) - Erfanda Zaki (2025)
 
 ---
-<a href="halaman1.html">Halaman 1</a>
+[halaman 1](webti/halaman1.html)
 *Powered by Github Pages*
